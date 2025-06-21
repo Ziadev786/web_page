@@ -1,0 +1,4 @@
+simple website
+
+home 
+about
